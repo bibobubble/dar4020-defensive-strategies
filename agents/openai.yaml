@@ -1,0 +1,4 @@
+interface:
+  display_name: "DAR4020 Defensive Strategy"
+  short_description: "Build defensive overlays, regime scaling, and sell rules"
+  default_prompt: "Use $dar4020-defensive-strategies to build and validate a defensive overlay with DAR4020, trend-following, recession-regime sizing, and position-level sell discipline."
